@@ -5,7 +5,7 @@ body{
     background-color: #ABE3EA;
 }
 .quem-somos{
-    background-color: #A1A5A5;
+    background-color: #ABE3EA;
     color: white;
 }
 .margin{
@@ -15,4 +15,8 @@ body{
 .parceiros{
 background-color:#0B415B;
 color: white;
+}
+.bg-footer{
+    background-color: black;
+    color: white;
 }
