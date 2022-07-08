@@ -6,17 +6,22 @@ body{
 }
 .quem-somos{
     background-color: #ABE3EA;
-    color: white;
+    color: #0B415B;
 }
 .margin{
-    padding-bottom: 50px;   
-    padding-top: 10px;
+    padding-bottom: 30px;   
+    padding-top: 20px;
 }
-.parceiros{
+.equipe{
 background-color:#0B415B;
 color: white;
 }
 .bg-footer{
     background-color: black;
     color: white;
+}
+.desc{
+    background-color: #0B415B;
+    color: white;
+
 }
